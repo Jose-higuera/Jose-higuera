@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hola, soy José Higuera</h1>
 <p align="center">
-  Backend Developer | Node.js & TypeScript | PostgreSQL
+  Desarrollador Backend | Node.js & TypeScript | PostgreSQL
 </p>
 
 <p align="center">
-  🚀 Construyo APIs y sistemas escalables | Clean Architecture | Aprendiendo nuevas tecnologías en IA
+  🚀 Construyo APIs y sistemas escalables | Arquitectura limpia | Aprendiendo nuevas tecnologías en IA
 </p>
 
 ---
@@ -22,24 +22,35 @@
 
 <h2>📁 Proyectos destacados</h2>
 
-<ul>
-  <li>
-    <a href="https://github.com/Jose-higuera/booking-system-api">booking-system-api</a> – Sistema de reservas, backend en Node.js con TypeScript y PostgreSQL.
-  </li>
-  <li>
-    <a href="https://github.com/Jose-higuera/job-scraper-backend">job-scraper-backend</a> – Scraper de empleos, automatización de data con Node.js y Prisma.
-  </li>
-  <li>
-    Próximos proyectos: IA / APIs modernas / Aprendizaje de nuevas tecnologías.
-  </li>
-</ul>
+### 1️⃣ booking-system-api
+- **Descripción:** Sistema de reservas que permite crear, actualizar y consultar reservas de manera segura y escalable.
+- **Stack:** Node.js, TypeScript, PostgreSQL, Prisma, Express
+- **Funcionalidades:**
+  - CRUD de reservas
+  - Validación de disponibilidad
+  - API REST escalable y documentada
+- **Repo:** <a href="https://github.com/Jose-higuera/booking-system-api">booking-system-api</a>
+
+### 2️⃣ job-scraper-backend
+- **Descripción:** Scraper de empleos para automatizar la extracción de datos de sitios de trabajo remoto.
+- **Stack:** Node.js, TypeScript, Prisma, PostgreSQL
+- **Funcionalidades:**
+  - Scraping automatizado de empleos
+  - Guardado de datos en PostgreSQL
+  - Endpoint API para consultar trabajos
+- **Repo:** <a href="https://github.com/Jose-higuera/job-scraper-backend">job-scraper-backend</a>
+
+### 3️⃣ Próximos proyectos / aprendizaje
+- Desarrollo de APIs con IA y Node.js
+- Experimentando con nuevas tecnologías de backend y automatización
+- Pequeños experimentos de scripts útiles para aprender y compartir código abierto
 
 ---
 
 <h2>📫 Contacto</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jose-higuera-b7549522b/">LinkedIn</a> •
- <a href="mailto:higueramelojose@gmail.com">Correo electrónico</a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jos%C3%A9Higuera-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-higuera-b7549522)
+  <a href="mailto:higueramelojose@gmail.com" style="display:inline-block;background-color:#D14836;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;">Correo electrónico</a>
 </p>
 
 ---
