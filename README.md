@@ -39,7 +39,7 @@
 <h2>📫 Contacto</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-higuera-b7549522b/">LinkedIn</a> •
-  <a href="mailto:higueramelojose@gmail.com">Email</a>
+  [![Correo electrónico](https://img.shields.io/badge/Email-higueramelojose@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higueramelojose@gmail.com)
 </p>
 
 ---
