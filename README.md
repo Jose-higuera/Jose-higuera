@@ -16,6 +16,11 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-00AABB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-7A1E9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -32,7 +37,7 @@
 - **Repo:** <a href="https://github.com/Jose-higuera/booking-system-api">booking-system-api</a>
 
 ### 2️⃣ job-scraper-backend
-- **Descripción:** Scraper de empleos para automatizar la extracción de datos de sitios de trabajo remoto.
+- **Descripción:** Scraper de empleos que automatiza la extracción de datos de sitios de trabajo remoto.
 - **Stack:** Node.js, TypeScript, Prisma, PostgreSQL
 - **Funcionalidades:**
   - Scraping automatizado de empleos
@@ -40,18 +45,10 @@
   - Endpoint API para consultar trabajos
 - **Repo:** <a href="https://github.com/Jose-higuera/job-scraper-backend">job-scraper-backend</a>
 
-### 3️⃣ Próximos proyectos / aprendizaje
-- Desarrollo de APIs con IA y Node.js
-- Experimentando con nuevas tecnologías de backend y automatización
-- Pequeños experimentos de scripts útiles para aprender y compartir código abierto
-
 ---
 
 <h2>📫 Contacto</h2>
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jos%C3%A9Higuera-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-higuera-b7549522)
-  <a href="mailto:higueramelojose@gmail.com" style="display:inline-block;background-color:#D14836;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;">Correo electrónico</a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/jose-higuera-b7549522b/">LinkedIn</a> • <a href="mailto:higueramelojose@gmail.com">Correo electrónico</a> </p>
 
 ---
 
